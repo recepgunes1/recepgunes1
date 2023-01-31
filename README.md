@@ -3,9 +3,7 @@
 
 - 🌱 I’m currently learning **.NET Core**
 
-- 📝 I regularly write articles on [recepgunes.blog](recepgunes.blog)
-
-- 💬 Ask me about **SQL**
+- 📝 I regularly write articles on [recepgunes.blog](https://recepgunes.blog/)
 
 - 📫 How to reach me **recepgunes2@outlook.com**
 
