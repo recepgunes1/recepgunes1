@@ -27,20 +27,20 @@
   </thead>
   <tbody>
     <tr>
+      <td><a href="https://github.com/recepgunes1/Crawler" target="_blank">Crawler</a></td>
+      <td>Microservice based, Crawler target specific using Dotnet (In Development Progress)</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/recepgunes1/UrlShortener" target="_blank">UrlShortener</a></td>
+      <td>Microservice based, developed with ASP.NET, Ocelot, EF Core, Dapper, Ocelot, MassTransit, Quartz.NET, MediatR, xUnit, Moq, Postgres, RabbitMQ, TypeScript, Vue.JS, Elasticsearch, Kibana, Docker and Docker-Compose, Swagger</td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/recepgunes1/LibraryManagementSystem-WebBased" target="_blank">LibraryManagementSystem-WebBased</a></td>
       <td>User interface technologies were Bootstrap, JQuery, Chart.js., NToastNotify.<br/>ASP.NET, EF Core, AutoMapper were used for back-end using n-tier Architecture. Bogus was used to generate fake data. Application and database service were containerized using docker.</td>
     </tr>
     <tr>
       <td><a href="https://github.com/recepgunes1/eCommerce" target="_blank">eCommerce</a></td>
       <td>User interface technologies were Bootstrap, JQuery, Chart.js.<br/>ASP.NET, EF Core, AutoMapper were used for back-end using n-tier Architecture.<br/>Also selenium was used to test user interface with docker selenium server.</td>
-    </tr>
-        <tr>
-      <td><a href="https://github.com/recepgunes1/Crawler" target="_blank">Crawler</a></td>
-      <td>Microservice based, Crawler target specific using Dotnet (In Development Progress)</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/recepgunes1/UrlShortener" target="_blank">UrlShortener</a></td>
-      <td>Microservice based, UrlShortener using Dotnet etc. (In Development Progress)</td>
     </tr>
   </tbody>
 </table>
