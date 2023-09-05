@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Recep GUNES</h1>
 <h3 align="left">I'm a student at Toros Uni.</h3>
 
-- 🌱 I’m currently learning **.NET** and **GoLang**
+- 🌱 I’m currently learning **.NET** and **DevOps**
 
 - 📝 I regularly write articles on [recepgunes.blog](https://recepgunes.blog/)
 
