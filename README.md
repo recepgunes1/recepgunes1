@@ -28,7 +28,7 @@
   <tbody>
     <tr>
       <td><a href="https://github.com/recepgunes1/Crawler" target="_blank">Crawler</a></td>
-      <td>Microservice based, Crawler target specific using Dotnet (In Development Progress)</td>
+      <td>Microservice based, developed with .NET, ASP.NET, MassTransit, TopShelf, Postgres. (It is target-specific)</td>
     </tr>
     <tr>
       <td><a href="https://github.com/recepgunes1/UrlShortener" target="_blank">UrlShortener</a></td>
