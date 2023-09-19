@@ -32,7 +32,7 @@
     </tr>
     <tr>
       <td><a href="https://github.com/recepgunes1/UrlShortener" target="_blank">UrlShortener</a></td>
-      <td>Microservice based, developed with ASP.NET, Ocelot, EF Core, Dapper, Ocelot, MassTransit, Quartz.NET, MediatR, xUnit, Moq, Postgres, RabbitMQ, TypeScript, Vue.JS, Elasticsearch, Kibana, Docker and Docker-Compose, Swagger.</td>
+      <td>Microservice based, developed with ASP.NET, Ocelot, EF Core, Dapper, MassTransit, Quartz.NET, MediatR, xUnit, Moq, Postgres, RabbitMQ, TypeScript, Vue.JS, Elasticsearch, Kibana, Docker and Docker-Compose, Swagger.</td>
     </tr>
     <tr>
       <td><a href="https://github.com/recepgunes1/LibraryManagementSystem-WebBased" target="_blank">LibraryManagementSystem-WebBased</a></td>
