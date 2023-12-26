@@ -31,10 +31,6 @@
       <td>Microservice based, developed with .NET technologies etc. (In development)</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/recepgunes1/UrlShortener" target="_blank">UrlShortener</a></td>
-      <td>Microservice based, developed with ASP.NET, Ocelot, EF Core, Dapper, MassTransit, Quartz.NET, MediatR, xUnit, Moq, Postgres, RabbitMQ, TypeScript, Vue.JS, Elasticsearch, Kibana, Docker and Docker-Compose, Swagger.</td>
-    </tr>
-    <tr>
       <td><a href="https://github.com/recepgunes1/Crawler" target="_blank">Crawler</a></td>
       <td>Microservice based, developed with .NET, ASP.NET, MassTransit, TopShelf, Postgres. (It is target-specific)</td>
     </tr>
