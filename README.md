@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **.NET** and **DevOps**
 
-- 📝 I regularly write articles on [recepgunes.blog](https://recepgunes.blog/)
-
 - 📫 How to reach me **recepgunes2@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
