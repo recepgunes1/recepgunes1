@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Recep GUNES</h1>
-<h3 align="left">I'm a student at Toros Uni.</h3>
+<h3 align="left">I'm a Software Enginner</h3>
 
 - 🌱 I’m currently learning **.NET** and **DevOps**
 
@@ -20,17 +20,17 @@
   <thead>
     <tr>
       <th>Project Name</th>
-      <th>Project Details (Briefly)</th>
+      <th>Tech Stack</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td><a href="https://github.com/recepgunes1/SearchEngine" target="_blank">SearchEngine</a></td>
-      <td>Microservice based, developed with .NET technologies etc. (In development)</td>
+      <td>Microservice based, developed search engine using .NET technologies (ASP.NET WebAPI, Blazor, MAUI), Postgres, RabbitMQ, Docker, Kubernetes, Jenkins, Elasticsearch, Kibana.</td>
     </tr>
     <tr>
       <td><a href="https://github.com/recepgunes1/Crawler" target="_blank">Crawler</a></td>
-      <td>Microservice based, developed with .NET, ASP.NET, MassTransit, TopShelf, Postgres. (It is target-specific)</td>
+      <td>Microservice based, developed with .NET technologies (ASP.NET WebAPI), Postgres, RabbitMQ, Docker. (It crawles kitapyurdu.com)</td>
     </tr>
     <tr>
       <td><a href="https://github.com/recepgunes1/UrlShortener" target="_blank">UrlShortener</a></td>
