@@ -1,49 +1,58 @@
-<h1 align="left">Hi 👋, I'm Recep GUNES</h1>
-<h3 align="left">I'm a Software Enginner</h3>
+<h2 align="left">Hi 👋, I'm Recep GUNES, a Software Engineer</h2>
 
-- 🌱 I’m currently learning **.NET** and **DevOps**
+<ul>
+  <li>💻 Building production-grade <b>.NET</b> applications</li>
+  <li>🌱 Working with <b>Go</b>, <b>Kubernetes</b>, and cloud-native observability</li>
+  <li>🐧 Linux &amp; open-source enthusiast, member of <a href="https://github.com/HappyHackingSpace">@HappyHackingSpace</a></li>
+  <li>💼 LinkedIn: <b><a href="https://linkedin.com/in/recepgunes">recepgunes</a></b></li>
+  <li>🐦 Twitter: <b><a href="https://twitter.com/recepgunes01">@recepgunes01</a></b></li>
+  <li>📫 Email: <b><a href="mailto:recepgunes2@outlook.com">recepgunes2@outlook.com</a></b></li>
+</ul>
 
-- 📫 How to reach me **recepgunes2@outlook.com**
+<h3 align="left">Languages & Tools:</h3>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/recepgunes01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="recepgunes01" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/recepgunes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="recepgunes" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/13955032" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13955032" height="30" width="40" /></a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnet" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+<h3 align="left">Featured Projects:</h3>
 
-<h3 align="left">Projects:</h3>
 <table>
   <thead>
     <tr>
-      <th>Project Name</th>
-      <th>Tech Stack</th>
+      <th>Project</th>
+      <th>Description &amp; Stack</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/recepgunes1/SearchEngine" target="_blank">SearchEngine</a></td>
-      <td>Microservice based, developed search engine using .NET technologies (ASP.NET WebAPI, Blazor, MAUI), Postgres, RabbitMQ, Docker, Kubernetes, Jenkins, Elasticsearch, Kibana.</td>
+      <td><a href="https://github.com/HappyHackingSpace/vt" target="_blank"><b>vt</b></a></td>
+      <td>Creates intentionally vulnerable environments for security testing. Written in <b>Go</b>.</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/recepgunes1/Crawler" target="_blank">Crawler</a></td>
-      <td>Microservice based, developed with .NET technologies (ASP.NET WebAPI), Postgres, RabbitMQ, Docker. (It crawles kitapyurdu.com)</td>
+      <td><a href="https://github.com/HappyHackingSpace/funURL" target="_blank"><b>funURL</b></a></td>
+      <td>A URL Swiss Army knife 🛠️. Built with <b>C# and .NET</b>.</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/recepgunes1/UrlShortener" target="_blank">UrlShortener</a></td>
-      <td>Microservice based, developed with ASP.NET, Ocelot, EF Core, Dapper, MassTransit, Quartz.NET, MediatR, xUnit, Moq, Postgres, RabbitMQ, TypeScript, Vue.JS, Elasticsearch, Kibana, Docker and Docker-Compose, Swagger.</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/recepgunes1/LibraryManagementSystem-WebBased" target="_blank">LibraryManagementSystem-WebBased</a></td>
-      <td>User interface technologies were Bootstrap, JQuery, Chart.js., NToastNotify.<br/>ASP.NET, EF Core, AutoMapper were used for back-end using n-tier Architecture. Bogus was used to generate fake data. Application and database service were containerized using docker.</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/recepgunes1/eCommerce" target="_blank">eCommerce</a></td>
-      <td>User interface technologies were Bootstrap, JQuery, Chart.js.<br/>ASP.NET, EF Core, AutoMapper were used for back-end using n-tier Architecture.<br/>Also selenium was used to test user interface with docker selenium server.</td>
+      <td><a href="https://github.com/recepgunes1/Url-Shortener" target="_blank"><b>Url-Shortener</b></a></td>
+      <td>URL shortener running on a local k3s cluster. <b>.NET 10</b> with <b>ASP.NET Core</b>, <b>PostgreSQL</b>, and <b>Redis</b>. GitHub Actions builds the image and pushes it to GHCR, then a Helm chart deploys it. OpenTelemetry traces go to Jaeger. Pre-commit hooks run Gitleaks, CSharpier, and tests.</td>
     </tr>
   </tbody>
 </table>
 
+<h3 align="left">GitHub Stats:</h3>
+
+<p align="left">
+  <a href="https://github.com/recepgunes1">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=recepgunes1&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=tokyonight" alt="Recep's GitHub stats"/>
+  </a>
+  <a href="https://github.com/recepgunes1">
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=recepgunes1&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages"/>
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://github.com/recepgunes1">
+    <img src="https://streak-stats.demolab.com?user=recepgunes1&hide_border=true&theme=tokyonight" alt="GitHub streak"/>
+  </a>
+</p>
