@@ -2,7 +2,7 @@
 
 <ul>
   <li>💻 Building production-grade <b>.NET</b> applications</li>
-  <li>🌱 Working with <b>Go</b>, <b>Kubernetes</b>, and cloud-native observability</li>
+  <li>🌱 Working with <b>Go</b>, <b>Kubernetes</b>, and cloud-native tooling</li>
   <li>🐧 Linux &amp; open-source enthusiast, member of <a href="https://github.com/HappyHackingSpace">@HappyHackingSpace</a></li>
   <li>💼 LinkedIn: <b><a href="https://linkedin.com/in/recepgunes">recepgunes</a></b></li>
   <li>🐦 Twitter: <b><a href="https://twitter.com/recepgunes01">@recepgunes01</a></b></li>
