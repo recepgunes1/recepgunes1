@@ -39,20 +39,3 @@
     </tr>
   </tbody>
 </table>
-
-<h3 align="left">GitHub Stats:</h3>
-
-<p align="left">
-  <a href="https://github.com/recepgunes1">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=recepgunes1&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=tokyonight" alt="Recep's GitHub stats"/>
-  </a>
-  <a href="https://github.com/recepgunes1">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=recepgunes1&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages"/>
-  </a>
-</p>
-
-<p align="left">
-  <a href="https://github.com/recepgunes1">
-    <img src="https://streak-stats.demolab.com?user=recepgunes1&hide_border=true&theme=tokyonight" alt="GitHub streak"/>
-  </a>
-</p>
