@@ -1,12 +1,12 @@
-<h2 align="left">Hi 👋, I'm Recep GUNES, a Software Engineer</h2>
+<h2 align="left">I'm Recep GUNES, a Software Engineer</h2>
 
 <ul>
-  <li>💻 Building production-grade <b>.NET</b> applications</li>
-  <li>🌱 Working with <b>Go</b>, <b>Kubernetes</b>, and cloud-native tooling</li>
-  <li>🐧 Linux &amp; open-source enthusiast, member of <a href="https://github.com/HappyHackingSpace">@HappyHackingSpace</a></li>
-  <li>💼 LinkedIn: <b><a href="https://linkedin.com/in/recepgunes">recepgunes</a></b></li>
-  <li>🐦 Twitter: <b><a href="https://twitter.com/recepgunes01">@recepgunes01</a></b></li>
-  <li>📫 Email: <b><a href="mailto:recepgunes2@outlook.com">recepgunes2@outlook.com</a></b></li>
+  <li>Building production-grade <b>.NET</b> applications</li>
+  <li>Working with <b>Go</b>, <b>Kubernetes</b>, and cloud-native tooling</li>
+  <li>Linux &amp; open-source enthusiast, member of <a href="https://github.com/HappyHackingSpace">@HappyHackingSpace</a></li>
+  <li>LinkedIn: <b><a href="https://linkedin.com/in/recepgunes">recepgunes</a></b></li>
+  <li>Twitter: <b><a href="https://twitter.com/recepgunes01">@recepgunes01</a></b></li>
+  <li>Email: <b><a href="mailto:recepgunes2@outlook.com">recepgunes2@outlook.com</a></b></li>
 </ul>
 
 <h3 align="left">Languages & Tools:</h3>
